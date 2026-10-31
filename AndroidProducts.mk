@@ -14,6 +14,6 @@
 # limitations under the License.
 #
 
-PRODUCT_MAKEFILES := $(LOCAL_DIR)/twrp_rock.mk
+PRODUCT_MAKEFILES := $(LOCAL_DIR)/fox_wp19pro.mk
 
-COMMON_LUNCH_CHOICES := twrp_rock-eng
+COMMON_LUNCH_CHOICES := fox_wp19pro-eng
