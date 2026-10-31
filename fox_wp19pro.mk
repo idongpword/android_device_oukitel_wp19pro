@@ -46,3 +46,8 @@ OF_SUPPORT_VBMETA_AVB2_PATCHING := 1
 
 # Maintainer specific settings
 #OF_MAINTAINER := MisterZtr
+PRODUCT_DEVICE := wp19pro
+PRODUCT_NAME := fox_wp19pro
+PRODUCT_BRAND := oukitel
+PRODUCT_MODEL := WP19 Pro
+PRODUCT_MANUFACTURER := oukitel
