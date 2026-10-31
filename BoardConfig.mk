@@ -14,7 +14,7 @@
 # limitations under the License.
 #
 
-DEVICE_PATH := device/xiaomi/rock
+DEVICE_PATH := device/oukitel/wp19pro
 
 # For building with minimal manifest
 ALLOW_MISSING_DEPENDENCIES := true
